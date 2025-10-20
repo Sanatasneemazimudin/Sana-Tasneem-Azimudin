@@ -1,6 +1,6 @@
 # Sana-Tasneem-Azimudin
 # 💫 About Me:
-I'm currently in my second year of engineering<br>I'm pretty interested in coding<br>
+I'm currently in my second year of engineering<br>I'm very interested in coding<br>
 
 
 # 💻 Tech Stack:
