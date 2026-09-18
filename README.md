@@ -11,9 +11,9 @@
 ## 🐍 My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanatasneemazimudin/Sanatasneemazimudin/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanatasneemazimudin/Sanatasneemazimudin/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sanatasneemazimudin/Sanatasneemazimudin/output/github-snake.svg">
 </picture>
 ---
 [![](https://komarev.com/ghpvc/?username=Sanatasneemazimudin&icon=0&color=0)](https://visitcount.itsvg.in)
